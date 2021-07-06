@@ -1,2 +1,2 @@
 # PersonalWeb
-My First Web Portfolio (HTML - CSS only) hehehe...
+My First Web Portfolio (HTML - CSS only)
